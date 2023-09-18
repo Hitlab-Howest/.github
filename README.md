@@ -1,6 +1,6 @@
-# [Human Interface Technology Lab by HOWEST](https://hitlab.be)
+# [Human Interface Technology Lab by HOWEST][https://hitlab.be]
 
-👋 Hello, you have reached the Human Interface Technology Lab's repositories, led by [Jelle Demanet]([https://be.linkedin.com/in/jelle-demanet-51a5223a]).
+👋 Hello, you have reached the Human Interface Technology Lab's repositories, led by [Jelle Demanet][https://be.linkedin.com/in/jelle-demanet-51a5223a].
 
 
 :zap: We explore the limits of extended reality and physiological data measurements.
